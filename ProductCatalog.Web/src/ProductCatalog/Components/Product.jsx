@@ -57,7 +57,7 @@ class Product extends Component {
             productInfo.append('', this.state.files[0]);
         } 
 
-        axios(`${ProductCatalogServerUrl}/Products/${this.props.match.params.id}`, {
+        axios(`${ProductCatalogServerUrl}Products/${this.props.match.params.id}`, {
             method: 'put',
             data: productInfo,
             config: { headers: {'Content-Type': 'multipart/form-data' }}

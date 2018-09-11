@@ -75,7 +75,7 @@ class Products extends Component {
         productInfo.append('Price', product.price);
         productInfo.append('', this.state.files[0]);
 
-        axios(`${ProductCatalogServerUrl}/Products`, {
+        axios(`${ProductCatalogServerUrl}Products`, {
             method: 'post',
             data: productInfo,
             config: { headers: {'Content-Type': 'multipart/form-data' }}
