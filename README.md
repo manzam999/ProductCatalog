@@ -2,7 +2,7 @@
 How to run:
 <ul>
   <li>clone repository </li>
-  <li>cd ProductCatalog</li>
+  <li>cd ProductCatalog/ProductCatalog.API</li>
   <li> dotnet run </li>
   <li> back to root dir </li>
   <li> cd ProductCatalog.Web </li>
