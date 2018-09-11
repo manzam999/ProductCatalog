@@ -122,7 +122,6 @@ class Products extends Component {
     }
 
     render() {
-        debugger;
         return (
             <Container>
                 <Button content='Add New' onClick={() => this.handleOpen()} />

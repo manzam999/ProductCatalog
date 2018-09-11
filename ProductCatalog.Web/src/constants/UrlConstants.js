@@ -1,1 +1,1 @@
-export const ProductCatalogServerUrl = 'https://localhost:44376/api/'
+export const ProductCatalogServerUrl = 'https://localhost:5001/api/'
