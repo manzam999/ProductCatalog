@@ -1,0 +1,12 @@
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\bin\Debug\netcoreapp2.1\ProductCatalog.Services.deps.json
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\bin\Debug\netcoreapp2.1\ProductCatalog.Services.dll
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\bin\Debug\netcoreapp2.1\ProductCatalog.Data.dll
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\bin\Debug\netcoreapp2.1\ProductCatalog.Data.pdb
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\obj\Debug\netcoreapp2.1\ProductCatalog.Services.csprojAssemblyReference.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\obj\Debug\netcoreapp2.1\ProductCatalog.Services.csproj.CoreCompileInputs.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\obj\Debug\netcoreapp2.1\ProductCatalog.Services.AssemblyInfoInputs.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\obj\Debug\netcoreapp2.1\ProductCatalog.Services.AssemblyInfo.cs
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\obj\Debug\netcoreapp2.1\ProductCatalog.Services.csproj.CopyComplete
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\bin\Debug\netcoreapp2.1\ProductCatalog.Services.pdb
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\obj\Debug\netcoreapp2.1\ProductCatalog.Services.dll
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Services\obj\Debug\netcoreapp2.1\ProductCatalog.Services.pdb

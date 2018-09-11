@@ -1,0 +1,1 @@
+export const ProductCatalogServerUrl = 'https://localhost:44376/api/'

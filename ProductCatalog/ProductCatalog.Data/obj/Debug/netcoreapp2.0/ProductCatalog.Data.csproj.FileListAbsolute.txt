@@ -1,0 +1,11 @@
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\bin\Debug\netcoreapp2.0\ProductCatalog.Data.deps.json
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\bin\Debug\netcoreapp2.0\ProductCatalog.Data.dll
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\bin\Debug\netcoreapp2.0\ProductCatalog.Data.pdb
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\obj\Debug\netcoreapp2.0\ProductCatalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\obj\Debug\netcoreapp2.0\ProductCatalog.Data.AssemblyInfoInputs.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\obj\Debug\netcoreapp2.0\ProductCatalog.Data.AssemblyInfo.cs
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\obj\Debug\netcoreapp2.0\ProductCatalog.Data.csproj.CopyComplete
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\obj\Debug\netcoreapp2.0\ProductCatalog.Data.dll
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\ProductCatalog\ProductCatalog.Data\obj\Debug\netcoreapp2.0\ProductCatalog.Data.pdb
